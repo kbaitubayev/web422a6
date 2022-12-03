@@ -15,7 +15,7 @@ import Image from 'react-bootstrap/Image'
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
-<title>Create Next App (Starter Kaktus Site)</title>
+
 
 export default function Home() {
   return (
