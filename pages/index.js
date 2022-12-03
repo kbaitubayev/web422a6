@@ -5,6 +5,8 @@
 * (including web sites) or distributed to other students.
 *
 * Name: Kairat Bayer Student ID: 115575201 Date: 2022-12-02
+
+Vercel App (Deployed) Link: https://web422a6-sage.vercel.app/
 *
 *
 ********************************************************************************/
