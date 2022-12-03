@@ -3,7 +3,7 @@ import { useRouter } from "next/dist/client/router";
 import { Button, Col, Form, Row } from "react-bootstrap";
 import { useForm } from 'react-hook-form';
 import { searchHistoryAtom } from "../store";
-import {addToHistory} from "../lib/userData";
+import {addToHistory} from "../lib/UserData";
 
 
 
