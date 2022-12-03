@@ -1,11 +1,11 @@
 import useSWR from "swr";
 import Error from "next/error"
-import Link from "next/link";
+//import Link from "next/link";
 import { Button, Card } from "react-bootstrap";
 import { useAtom } from "jotai";
 import { favouritesAtom } from "../store"
 import { useEffect, useState } from "react";
-import { addToFavourites, removeFromFavourites } from "../lib/UserData.js";
+import { addToFavourites, removeFromFavourites } from "../lib/UserData";
 
 export default  function ArtworkCardDetail({objectID})
 {
